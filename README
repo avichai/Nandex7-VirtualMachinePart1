@@ -1,0 +1,16 @@
+
+                           Project 07 - VMtranslator part1
+                           -------------------------------
+  
+
+Submitted Files
+---------------
+README - This file.
+CommandType.java - enum for the types of the command.
+CodeWriter.java - Translates VM commands into Hack assembly code.
+Parser.java - parse the .vm file to it's parts.
+VMtranslator.java - The main class of the program.
+Makefile - makefile for the code
+VMtranslator - script to run java.
+
+
